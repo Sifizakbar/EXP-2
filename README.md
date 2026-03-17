@@ -49,9 +49,14 @@ Procedure for Load test:
 
 Tabulation for Open Circuit Test
 
+![occ tab](https://github.com/user-attachments/assets/f3357683-5271-4d7d-a099-897e9a77030f)
+
+
 Tabulation for Load Test:
 
-Model graph:
+![lcc tab](https://github.com/user-attachments/assets/f574df6a-da7f-428c-a1ad-0af4536720bb)
+
+
 Calculation: 
 
 Open circuit characteristics
