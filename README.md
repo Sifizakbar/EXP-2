@@ -60,9 +60,11 @@ Tabulation for Load Test:
 Calculation: 
 
 Open circuit characteristics
+![occ calc](https://github.com/user-attachments/assets/3961a249-766e-4fe9-b3e3-5340cc669999)
 
   
 Load Characteristics:
- 
+ ![lcc calc](https://github.com/user-attachments/assets/30f109d5-a6d4-4c50-9f5c-e7bd3021afdd)
+
 Result:
 The load test on separately excited generators and to obtain the characteristics was verified.
